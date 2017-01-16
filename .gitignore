@@ -5,7 +5,7 @@
 #!lib.a
 
 # only ignore the TODO file in the current directory, not subdir/TODO
-#/TODO
+/*.sql
 
 # ignore all files in the build/ directory
 #build/
